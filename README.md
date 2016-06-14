@@ -1,2 +1,2 @@
-# jenkins_jautomate
-Combination of CI tools (Jenkins) and VGT tools (JAutomate) in Java SE case study
+# jenkins-jautomate
+Combination of CI tools and VGT tools in Java SE case study
