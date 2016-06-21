@@ -1,0 +1,15 @@
+Write "[WINDOWS_PRESS]d[WINDOWS_RELEASE]"
+StartFile "D:\jenkins-jautomate\dist\jenkins-jautomate.jar"
+Click "scenario.jautomate/14657106521520.png"
+Click "scenario.jautomate/14657106521671.png"
+Click "scenario.jautomate/14657106521982.png" 168 91 71 32
+Write "SP-001[TAB]Internal disease[TAB]50000"
+Click "scenario.jautomate/14657106522143.png"
+Click "scenario.jautomate/14657106522304.png"
+Click "scenario.jautomate/14657106522455.png"
+Click "scenario.jautomate/14657106522616.png" 44 46
+Click "scenario.jautomate/14657106522777.png" 50 50
+Click "scenario.jautomate/1465711033241.png"
+Click "scenario.jautomate/146571065232310.png"
+Click "scenario.jautomate/146571065233911.png"
+
